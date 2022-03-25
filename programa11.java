@@ -79,7 +79,7 @@ public class programa11 {
     public static void main(String[]args){
         Scanner cin=new Scanner(System.in);
         String operacionesAritmeticas=cin.nextLine();//"1 + 4 - 1"  
-        String datos[]=operacionesAritmeticas.split(" ");//{"1","+","4","-","1"}
+        String datos[]=operacionesAritmeticas.split(" ");//["1","+","4","-","1"]
 
         vector=ObtenerNumeros(datos);
         operaciones=ObtenerOperaciones(datos);
