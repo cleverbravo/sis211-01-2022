@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /*
-escribir un programa para almacenar los nombres,carnets de identidad y direcciones de 5 estudiantes
+escribir un programa para almacenar los nombres,carnets de identidad y direcciones de 2 estudiantes
 
 */
 public class programa12 {
